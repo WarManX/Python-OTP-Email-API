@@ -7,15 +7,8 @@ Python OTP Email API
 </p>
 
 <p align="center">
-   <img src='https://img.shields.io/github/license/WarManX/Python-OTP-Email-API/>
-   <img src="https://img.shields.io/github/stars/WarManX/Python-OTP-Email-API"/>
-   <img src="https://img.shields.io/github/forks/WarManX/Python-OTP-Email-API"/>
-</p>
-
-<p align="center">
 <img src='https://madewithlove.vercel.app/ae?heart=true&template=for-the-badge'/>
 </p>
-
 
 <p align="center">
     <a href="https://github.com/WarManX/Python-OTP-Email-API/issues">Report Bug</a>
